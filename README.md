@@ -2,7 +2,9 @@
 ### Project Overview
 
 <img src="images/3DPrototypeImage1.jpg" width="200" height="100">
-![A1 Poster](images/3DPrototypeImage1.jpg)
+
+<img src="images/3DPrototypeImage1.jpg" alt="Poster for the Hive">
+
 *A1 Poster featuring renders of the final prototype*
 ## Arcadia
 ### Project Overview
