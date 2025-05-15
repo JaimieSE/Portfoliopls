@@ -1,4 +1,12 @@
 # Projects
 ## The Hive
+### Project Overview
+![A1 Poster](images/3DPrototypeImage1.jpg)
+*A1 Poster featuring renders of the final prototype*
 ## Arcadia
+### Project Overview
+![Arcadia Render 1](images/ArcadiaRender1.PNG)
+*Render of Final Prototype*
+
 ## Solar Powered Handheld Fan
+### Project Overview
