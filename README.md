@@ -1,6 +1,7 @@
-# Projects
 ## The Hive
 ### Project Overview
+
+<img src="images/3DPrototypeImage1.jpg" width="200" height="100">
 ![A1 Poster](images/3DPrototypeImage1.jpg)
 *A1 Poster featuring renders of the final prototype*
 ## Arcadia
@@ -10,4 +11,4 @@
 
 ## Solar Powered Handheld Fan
 ### Project Overview
-<head> test </head>
+
