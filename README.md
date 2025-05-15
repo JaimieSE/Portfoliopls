@@ -1,5 +1,4 @@
-# Jaimie Ngu
-## Projects
-### The Hive
-### Arcadia
-### Solar Powered Handheld Fan
+# Projects
+## The Hive
+## Arcadia
+## Solar Powered Handheld Fan
